@@ -10,5 +10,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "redis": "^6.3.1"
+  }
 }
